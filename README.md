@@ -1,2 +1,3 @@
 # FreeRun
-Free run game with Seba
+Author - Seba and Kevin
+Free run game 
